@@ -1,10 +1,6 @@
 # UI-Material
 
-# Usable for your own templates
-
-# Credits aren't required, but you can quote me ;)
-
-# First Project, more are coming
+# Usable for your own template
 
 
 Basic template for any company using MaterializeCSS.
